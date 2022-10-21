@@ -9,7 +9,7 @@ function Banner() {
             <p className='text-sm sm:text-lg'>
                 Not sure where to go? Perfect.
             </p>
-            <button className=' text-purple-500 bg-white px-10 py-4 shadow-md rounded-full my-3 font-bold hover:shadow-xl active:scale-90 transition-150'> I'm flexible </button>
+            <button className=' text-purple-500 bg-white px-10 py-4 shadow-md rounded-full my-3 font-bold hover:shadow-xl active:scale-90 transition-150'> I{'&apos'}m flexible </button>
         </div>
     </div>
 
